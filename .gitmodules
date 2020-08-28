@@ -4,3 +4,6 @@
 [submodule "process-fl-covid19-data"]
 	path = process-fl-covid19-data
 	url = https://github.com/chrismp/process-fl-covid19-data.git
+[submodule "update-pbp-covid-charts"]
+	path = update-pbp-covid-charts
+	url = https://github.com/chrismp/update-pbp-covid-charts.git
